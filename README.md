@@ -1,4 +1,4 @@
-![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQHR9dE5qZ7d-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731933773249?e=1740009600&v=beta&t=7Er84u_s8v21cPbCMzKU9FBbYohf3XytlR_8rtl11qw)
+![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQHR9dE5qZ7d-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731933773249?e=1746662400&v=beta&t=35MdeEHM21OQp28_kRV9ccIfypVCtLWNi2d04H7L5Cc)
 <h1 align="center">Hey! 👋, This is Md.Mahdi hasan Tazelly</h1>
 <h3 align="center">A passionate MERN stack developer skilled in building dynamic web applications. I enjoy to create scalable, efficient solutions.</h3>
 
@@ -8,7 +8,7 @@
   
 - 🌱 Always learning and exploring new technologies to improve my development skills.
   
-- 💬 Ask me about **MERN, SQL, Redux-Reducers, ,C++, Java**
+- 💬 Ask me about **MERN, SQL, C++, Java**
 
 - 📫 How to reach me **mahdihasantazelly@gmail.com**
 
